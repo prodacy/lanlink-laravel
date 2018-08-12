@@ -7,8 +7,11 @@ Abra o terminal da sua máquina
 
 Navegue até a pasta do clone
 
+Com o Composer instalado
 
 Execute:
+
+$ composer install
 
 $ php artisan migrate --seed
 
