@@ -7,12 +7,19 @@ Abra o terminal da sua máquina
 
 Navegue até a pasta do clone
 
+
 Execute:
+
 $ php artisan migrate --seed
+
 $ php artisan serve
 
+
 Usuário inicial:
+
 Email: pqsoares@lanlink.com.br
+
 Senha: 123456
+
 
 Pronto!
